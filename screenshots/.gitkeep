@@ -1,6 +1,0 @@
-Screenshots are pending: the three dashboard screenshots (board, detail view, filtered view)
-must be taken in a browser. This machine's Chrome cannot start (Hatch WebGL domain policy),
-so they will be taken on a machine with a working browser and added here before submission.
-Do not copy the kit starter's example screenshots here: they show the starter's dashboard, not
-this entry's. This file exists only so git tracks the directory; it is skipped by main.ts
-(names starting with a dot are not copied to /output).
